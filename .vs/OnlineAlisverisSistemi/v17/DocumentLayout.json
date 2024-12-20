@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\giyim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:giyim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\elektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:elektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\temelurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:temelurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|c:\\nesne tabanl\u0131 programlama\\onlinealisverissistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188EC06-C750-403B-9EEC-DDCAED12F4FA}|OnlineAlisverisSistemi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1611165478:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1611165478:0:{683b7fa4-6a84-40c1-a43b-1803dc159f14}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1488750610:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190621818:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190621818:0:{683b7fa4-6a84-40c1-a43b-1803dc159f14}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:504951107:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2061297865:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:381925437:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:14:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Urun.cs",
+              "RelativeDocumentMoniker": "Urun.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Urun.cs",
+              "RelativeToolTip": "Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:15:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "temelUrun.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\temelUrun.cs",
+              "RelativeDocumentMoniker": "temelUrun.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\temelUrun.cs",
+              "RelativeToolTip": "temelUrun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:00:28.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sepet.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Sepet.cs",
+              "RelativeDocumentMoniker": "Sepet.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Sepet.cs",
+              "RelativeToolTip": "Sepet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:15:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elektronik.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Elektronik.cs",
+              "RelativeDocumentMoniker": "Elektronik.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Elektronik.cs",
+              "RelativeToolTip": "Elektronik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:48:01.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giyim.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Giyim.cs",
+              "RelativeDocumentMoniker": "Giyim.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Giyim.cs",
+              "RelativeToolTip": "Giyim.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:57:06.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Kullanici.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Kullanici.cs",
+              "RelativeToolTip": "Kullanici.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:16:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Siparis.cs",
+              "RelativeDocumentMoniker": "Siparis.cs",
+              "ToolTip": "C:\\Nesne Tabanl\u0131 Programlama\\OnlineAlisverisSistemi\\Siparis.cs",
+              "RelativeToolTip": "Siparis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:16:04.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

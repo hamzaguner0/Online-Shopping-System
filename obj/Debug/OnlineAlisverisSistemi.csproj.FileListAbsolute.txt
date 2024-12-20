@@ -1,0 +1,7 @@
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe.config
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.exe
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\bin\Debug\OnlineAlisverisSistemi.pdb
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.AssemblyReference.cache
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.csproj.CoreCompileInputs.cache
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.exe
+C:\Nesne Tabanlı Programlama\OnlineAlisverisSistemi\obj\Debug\OnlineAlisverisSistemi.pdb
