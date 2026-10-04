@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,7 @@ namespace OnlineAlisverisSistemi
             Kullanici Ahmet = new Kullanici
             {
                 Isim = "Ahmet",
-                Email = "ahmet@gmail.com"
+                Email = "ahmet@example.com"
             };
 
             Ahmet.KullaniciBilgiGoster();
