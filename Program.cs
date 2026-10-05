@@ -1,8 +1,5 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace OnlineAlisverisSistemi
 {
@@ -10,67 +7,24 @@ namespace OnlineAlisverisSistemi
     {
         static void Main(string[] args)
         {
-
-            Kullanici Ahmet = new Kullanici
-            {
-                Isim = "Ahmet",
-                Email = "ahmet@example.com"
+            CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo("tr-TR");
+            var kullanici = new Kullanici { Isim = "Örnek Kullanıcı", Email = "demo@example.com" };
+            kullanici.KullaniciBilgiGoster();
+            var sepet = new Sepet();
+            Urun[] urunler = {
+                new Elektronik("Laptop", 15000m, 5, 2),
+                new Giyim("T-shirt", 200m, 10, "M"),
+                new temelUrun("Kalem", 10m, 100)
             };
-
-            Ahmet.KullaniciBilgiGoster();
-
-            Sepet sepet = new Sepet();
-
-            Elektronik laptop = new Elektronik
+            foreach (var urun in urunler)
             {
-                Isim = "Laptop",
-                Fiyat = 15000,
-                Stok = 5,
-                GarantiSuresi = 2
-            };
-
-            laptop.BilgiGoster();
-
-            sepet.UrunEkle(laptop);
-
-            Giyim tshirt = new Giyim
-            {
-                Isim = "T-shirt",
-                Fiyat = 200,
-                Stok = 10,
-                Beden = "M"
-            };
-
-            tshirt.BilgiGoster();
-            sepet.UrunEkle(tshirt);
-
-            temelUrun kalem = new temelUrun
-            {
-                Isim = "Kalem",
-                Fiyat = 10,
-                Stok = 100
-            };
-
-            sepet.UrunEkle(kalem);
-            kalem.BilgiGoster();
-
-
-
+                urun.BilgiGoster();
+                if (!sepet.UrunEkle(urun)) Console.WriteLine($"{urun.Isim} stokta yok.");
+            }
             sepet.SepetiGoster();
-
-            Siparis Siparis1 = new Siparis
-            {
-                SiparisNo = 1001,
-                TeslimatAdresi = "Ankara"
-            };
-            Siparis1.Urunler.Add(laptop);
-            Siparis1.Urunler.Add(tshirt);
-            Siparis1.Urunler.Add(kalem);
-
-
-            Siparis1.SiparisDetayiGoster();
-
-            Console.ReadLine();
+            var siparis = sepet.SiparisOlustur(1001, "Örnek teslimat adresi");
+            siparis.SiparisDetayiGoster();
+            if (!Console.IsInputRedirected && Array.IndexOf(args, "--non-interactive") < 0) Console.ReadLine();
         }
     }
 }

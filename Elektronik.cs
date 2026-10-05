@@ -1,18 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace OnlineAlisverisSistemi
 {
-    public class Elektronik: Urun
+    public class Elektronik : Urun
     {
-        public int GarantiSuresi { get; set; } 
+        public Elektronik(string isim, decimal fiyat, int stok, int garantiSuresi)
+            : base(isim, fiyat, stok)
+        {
+            if (garantiSuresi < 0) throw new ArgumentOutOfRangeException(nameof(garantiSuresi));
+            GarantiSuresi = garantiSuresi;
+        }
+
+        public int GarantiSuresi { get; }
 
         public override void BilgiGoster()
         {
-            Console.WriteLine($"Elektronik Ürün: {Isim}, Fiyat: {Fiyat} TL, Stok: {Stok} adet, Garanti Süresi: {GarantiSuresi} yıl");
+            Console.WriteLine($"Elektronik: {Isim}, Fiyat: {Fiyat:N2} TL, Stok: {Stok}, Garanti: {GarantiSuresi} yıl");
         }
     }
 }

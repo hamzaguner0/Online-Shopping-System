@@ -1,18 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace OnlineAlisverisSistemi
 {
-    public class Giyim: Urun
+    public class Giyim : Urun
     {
-        public string Beden { get; set; } 
+        public Giyim(string isim, decimal fiyat, int stok, string beden)
+            : base(isim, fiyat, stok)
+        {
+            if (string.IsNullOrWhiteSpace(beden)) throw new ArgumentException("Beden gereklidir.", nameof(beden));
+            Beden = beden.Trim();
+        }
+
+        public string Beden { get; }
 
         public override void BilgiGoster()
         {
-            Console.WriteLine($"Giyim Ürün: {Isim}, Fiyat: {Fiyat} TL, Stok: {Stok} adet, Beden: {Beden}");
+            Console.WriteLine($"Giyim: {Isim}, Fiyat: {Fiyat:N2} TL, Stok: {Stok}, Beden: {Beden}");
         }
     }
 }

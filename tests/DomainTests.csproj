@@ -1,0 +1,11 @@
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <OutputType>Exe</OutputType><TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AssemblyName>DomainTests</AssemblyName><OutputPath>bin\$(Configuration)\</OutputPath>
+    <Configuration Condition="'$(Configuration)'==''">Release</Configuration>
+  </PropertyGroup>
+  <ItemGroup><Reference Include="System" /><Reference Include="System.Core" /><Compile Include="DomainTests.cs" /></ItemGroup>
+  <ItemGroup><ProjectReference Include="..\OnlineAlisverisSistemi.csproj"><Project>{D188EC06-C750-403B-9EEC-DDCAED12F4FA}</Project><Name>OnlineAlisverisSistemi</Name></ProjectReference></ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
